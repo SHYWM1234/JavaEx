@@ -1,17 +1,26 @@
 public class ExtendsTest{
 	public static void main(String[] args){
-		
+		CreditCardAccount ca = new CreditCardAccount();
+		ca.print();
+
 	}
 }
 
 class Account
 {
-	double 
+	int id;
+	double balance;
+	double rate;
+
 }
 
-class CreditAccount extends Account
+class CreditCardAccount extends Account
 {
-
+	
+	int credit;
+	public void print(){
+		System.out.println(this.id + this.balance + this.rate + this.credit); 
+	}
 }
 
 //1.基本作用：继承可以实现代码复用
