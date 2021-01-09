@@ -1,4 +1,4 @@
-# Second-public
+# JavaEx
 项目描述
 练习专用文件夹
 每天练习代码上传
