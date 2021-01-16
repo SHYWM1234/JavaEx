@@ -44,7 +44,7 @@ class CreditCardAccount extends Account
 */
 //C:\Program Files\Java\jdk1.8.0_152\src\java\lang
 //查看Object类的源码
-//注意：党员马中第一个方法以“；”结尾，并且修饰符列表中有native关键字
+//注意：当源码中第一个方法以“；”结尾，并且修饰符列表中有native关键字
 //表示底层调用C++写的dll程序
 //
 
